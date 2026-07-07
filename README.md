@@ -12,37 +12,33 @@ I’m learning Rust through hands-on exercises, and this repo shows my ongoing p
 - `solutions/` — reference/solution files included with the workspace
 - `.rustlings-state.txt` — tracks exercise completion state
 
-## Progress Table
+## Progress Checklist
 
-> Legend: ✅ Completed · 🟡 In Progress · ⬜ Not Started
-
-| Track | Status |
-| --- | --- |
-| 00 Intro | ⬜ Not Started |
-| 01 Variables | ⬜ Not Started |
-| 02 Functions | ⬜ Not Started |
-| 03 If | ⬜ Not Started |
-| 04 Primitive Types | ⬜ Not Started |
-| 05 Vecs | ⬜ Not Started |
-| 06 Move Semantics | ⬜ Not Started |
-| 07 Structs | ⬜ Not Started |
-| 08 Enums | ⬜ Not Started |
-| 09 Strings | ⬜ Not Started |
-| 10 Modules | ⬜ Not Started |
-| 11 HashMaps | ⬜ Not Started |
-| 12 Options | ⬜ Not Started |
-| 13 Error Handling | ⬜ Not Started |
-| 14 Generics | ⬜ Not Started |
-| 15 Traits | ⬜ Not Started |
-| 16 Lifetimes | ⬜ Not Started |
-| 17 Tests | ⬜ Not Started |
-| 18 Iterators | ⬜ Not Started |
-| 19 Smart Pointers | ⬜ Not Started |
-| 20 Threads | ⬜ Not Started |
-| 21 Macros | ⬜ Not Started |
-| 22 Clippy | ⬜ Not Started |
-| 23 Conversions | ⬜ Not Started |
-| Quizzes | ⬜ Not Started |
+- [ ] 00 Intro
+- [ ] 01 Variables
+- [ ] 02 Functions
+- [ ] 03 If
+- [ ] 04 Primitive Types
+- [ ] 05 Vecs
+- [ ] 06 Move Semantics
+- [ ] 07 Structs
+- [ ] 08 Enums
+- [ ] 09 Strings
+- [ ] 10 Modules
+- [ ] 11 HashMaps
+- [ ] 12 Options
+- [ ] 13 Error Handling
+- [ ] 14 Generics
+- [ ] 15 Traits
+- [ ] 16 Lifetimes
+- [ ] 17 Tests
+- [ ] 18 Iterators
+- [ ] 19 Smart Pointers
+- [ ] 20 Threads
+- [ ] 21 Macros
+- [ ] 22 Clippy
+- [ ] 23 Conversions
+- [ ] Quizzes
 
 ## Notes
 
