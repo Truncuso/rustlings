@@ -1,0 +1,13 @@
+# Git Guardrails Configuration
+# Path: .claude/git-guardrails.yaml
+#
+# This is a single-author personal repository worked on trunk, like dotfiles.
+# An empty blocked_branches declares that: the pre-commit and pre-push hooks
+# skip their protected-branch checks here. Force-push protection is separate
+# and stays on.
+
+# Blocked branches (space-separated) — pre-commit + pre-push
+blocked_branches:
+
+# Block force pushes — pre-push
+force_push_block: true
